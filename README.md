@@ -43,7 +43,7 @@ It's an axios compatible API client and an optional expressJS compatible API ser
 - typescript response types
 - parameters and responses schema thanks to zod
 - response schema validation
-- powerfull plugins like `fetch` adapter or `auth` automatic injection
+- powerful plugins like `fetch` adapter or `auth` automatic injection
 - all axios features available
 - `@tanstack/query` wrappers for react and solid (vue, svelte, etc, soon)
 - all expressJS features available (middlewares, etc.)

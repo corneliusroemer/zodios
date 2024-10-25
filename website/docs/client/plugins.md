@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Client API plugins
 
-Zodios client has a powerfull plugin system. You can attach a plugin to all your API calls or to a specific API call.
+Zodios client has a powerful plugin system. You can attach a plugin to all your API calls or to a specific API call.
 ## Fetch plugin
 
 Axios is using XHR on the browser. This might be a showstopper for your application, because XHR lacks some options of `fetch` you might rely on.  

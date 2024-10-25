@@ -18,7 +18,7 @@ const FeatureList: FeatureItem[] = [
       "autocompletion even in pure javascript",
       "typed parameters and response",
       "parameters and response validation",
-      "powerfull plugin system",
+      "powerful plugin system",
       "react and solid hooks based on tanstack-query",
     ],
   },
